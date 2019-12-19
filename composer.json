@@ -5,7 +5,7 @@
     "minimum-stability":  "dev",
     "autoload": {
         "psr-4": {
-            "jin\\obfuscator\\": "src/JObfuscator/"
+            "jin\\obfuscator\\": "src/jin/obfuscator/"
         }
     },
 
@@ -17,6 +17,6 @@
     ],
 
     "require": {
-        "nikic/php-parser":              "~1@dev"
+        "nikic/php-parser": "^4.3@dev"
     }
 }
